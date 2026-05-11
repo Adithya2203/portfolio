@@ -1,8 +1,5 @@
-import { useState } from "react";
-import { AnimatePresence } from "framer-motion";
 import CustomCursor from "./components/CustomCursor";
 import ParticleBackground from "./components/ParticleBackground";
-import LoadingScreen from "./components/LoadingScreen";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
